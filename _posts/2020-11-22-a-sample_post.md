@@ -1,17 +1,5 @@
 ---
 layout: post
-title: A Sample Post
-summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolore.
----
-
-## Lorem
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolore.
-
-## More Lorem
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, ipsam nam sit in omnis id. Ut molestiae non velit inventore quas, laborum dolorum maiores beatae animi aspernatur reprehenderit accusantium nostrum?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, ipsam nam sit in omnis id. Ut molestiae non velit inventore quas, laborum dolorum maiores beatae animi aspernatur reprehenderit accusantium nostrum?---
-layout: post
 title: A sample post with many elements
 summary: We'll use this post to work out what we need to do to style an individual posts... let's get going!
 ---
