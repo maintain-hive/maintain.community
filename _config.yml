@@ -1,6 +1,8 @@
-title: Maintain (holding page)
+title: Maintain
 description: >- # this means to ignore newlines until "baseurl:"
-  Holding Page for Maintain
+  We are a community of people interested in how we maintain different 
+  parts of our world. We recognize the often hidden work done in repair,
+  custodianship, stewardship, tending and caring for the things that matter.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maintain.community"
 twitter_username: "@maintain_hive"
