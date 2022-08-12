@@ -1,11 +1,9 @@
 title: Maintain (holding page)
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Holding Page for Maintain
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maintain.community"
 twitter_username: "@maintain_hive"
-github_username:  "xxxxx"
 email: "hello@maintain_hive.org.uk"
 
 # Build settings
