@@ -13,8 +13,18 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
 sass:
-  sass_dir: css
+  # Jekyll will compile any Sass files it finds, as long as they have
+  # "---" frontmatter. Jekyll also adds any Sass files in /_sass to the
+  # Sass load path, so they can be @imported from elsewhere.
+  # Here we define an additional location to be added to the load path,
+  # so we can @import vendor styles, while keeping them separate from
+  # our first-party styles.
+  load_paths:
+    - static/vendor/
+  # Don’t need Jekyll to generate Sass sourcemaps.
+  sourcemap: never
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
