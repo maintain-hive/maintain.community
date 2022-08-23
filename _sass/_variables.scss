@@ -1,7 +1,121 @@
-$primary: #115522; // green
-$info: #ff66cc; // pink
+// $code-heading-background: #dededc;
+// $code-text-color: #000000;
+
+// Color system
+
+$color-maintain-green: #115522;
+$color-maintain-magenta: #ff66cc;
+$color-maintain-flamingo: #eeaadd;
+
+// The maintain green is too dark to use for links
+// and buttons, so here’s a brighter version.
+$color-maintain-bright-green: #007B1F;
+
+$primary: $color-maintain-bright-green;
+$info: $color-maintain-magenta;
+
+// Options
+
+$enable-negative-margins: true;
+
+// Gradient
+
+// Spacing
+
+// Position
+
+// Body
+
+// Links
+
+// Paragraphs
+
+// Grid breakpoints
+
+// Grid containers
+
+// Grid columns
+
+// Components
+
+// Typography
 
 $font-family-base: 'Sora', sans-serif;
 
-$code-heading-background: #dededc; // eeaadd
-$code-text-color: #000000; // off white
+$font-size-base: 1.5rem; // mah-HOO-sive text
+$font-size-sm: 1rem;
+$font-size-lg: 2rem;
+
+$rfs-base-value: 1rem;
+
+$headings-margin-bottom: 1rem;
+$headings-font-weight: 700;
+
+$small-font-size: 0.75em; // down from 0.875em
+
+// Tables
+
+// Buttons + Forms
+
+// Buttons
+
+$btn-padding-x: 1.25rem;
+
+$btn-border-radius: 10rem;
+$btn-border-radius-sm: 10rem;
+$btn-border-radius-lg: 10rem;
+
+// Forms
+
+// Z-index master list
+
+// Navs
+
+// Navbar
+
+$navbar-nav-link-padding-x: 1rem;
+
+$navbar-toggler-padding-x: 0.75rem;
+$navbar-toggler-border-radius: 0.25rem;
+
+// Dropdowns
+
+// Pagination
+
+// Placeholders
+
+// Cards
+
+// Accordion
+
+// Tooltips
+
+// Popovers
+
+// Toasts
+
+// Badges
+
+// Modals
+
+// Alerts
+
+// Progress bars
+
+// List group
+
+// Image thumbnails
+
+// Figures
+
+// Breadcrumbs
+
+// Carousel
+
+// Spinners
+
+// Close
+
+// Offcanvas
+
+// Code

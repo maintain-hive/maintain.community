@@ -1,0 +1,10 @@
+.footer {
+    background-color: $dark;
+    color: $white;
+    box-shadow: 0 1000px 0 1000px $dark;
+
+    .nav {
+        --#{$prefix}nav-link-color: #{$light};
+        --#{$prefix}nav-link-hover-color: #{$color-maintain-flamingo};
+    }
+}

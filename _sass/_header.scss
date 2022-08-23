@@ -1,18 +1,14 @@
-.navbar{
-  box-shadow: 1px 1px 3px $primary;
-  opacity: 0.8;
-  background: $white;
+.header-logo {
+    background: transparent url('../img/maintain-logo-green.svg') 0 0 no-repeat;
+    background-size: contain;
+    display: block;
+    width: 200px;
+    height: 0;
+    padding-top: 15%; // SVG dimensions are 1000x150, so 100:15 aspect
+    overflow: hidden;
+    white-space: nowrap;
 
-  .nav-item{
-    font-size: 1.4rem;
-    padding-right: 20px;
-  }
-}
-
-.nav-link {
-  color: $info !important;
-
-  &:hover {
-    color: $primary !important;
-  }
+    @include media-breakpoint-up('md') {
+      width: 300px;
+    }
 }

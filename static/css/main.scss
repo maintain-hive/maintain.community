@@ -46,13 +46,11 @@
 @import 'bootstrap/scss/helpers';
 @import 'bootstrap/scss/utilities/api';
 
-@import 'header';
-@import 'banner';
-@import 'social_links';
-@import 'posts';
-@import 'pagination';
-@import 'post';
 @import 'solarized-dark';
-@import 'archive';
 
-
+@import "img";
+@import 'header';
+@import 'footer';
+@import 'hero';
+@import 'tito';
+// @import 'post';

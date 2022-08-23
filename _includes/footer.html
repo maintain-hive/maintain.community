@@ -1,26 +1,37 @@
-<footer class="py-5">
-  <hr>
-  <div class="container text-center text-info">
-    <div class="row">
-      <div class="col">
-       {% include social_links.html %}
-      </div>
+<footer class="footer text-bg-dark py-5">
+    <div class="container text-center">
+        <ul class="nav justify-content-center">
+            <li class="nav-item">
+                <a href="https://www.twitter.com/maintain_hive/" class="nav-link d-flex align-items-center">
+                    <i class="fab fa-twitter me-2"></i>
+                    Twitter
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="https://www.instagram.com/maintain_hive/" class="nav-link d-flex align-items-center">
+                    <i class="fab fa-instagram me-2"></i>
+                    Instagram
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="https://www.youtube.com/channel/UCpufp_ikE1old2nGP5XhpWQ" class="nav-link d-flex align-items-center">
+                    <i class="fab fa-youtube me-2"></i>
+                    YouTube
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="mailto:hello@maintain.community" class="nav-link d-flex align-items-center">
+                    <i class="fa fa-envelope me-2"></i>
+                    Email
+                </a>
+            </li>
+        </ul>
     </div>
-    <div class="row">
-      <div class="col">
-        All content copyright Maintain Hive &copy; {{ site.time | date: '%Y' }}.
-      </div>
-    </div>
-    <div class="row">
-      <div class="col">
-        All rights reserved.
-      </div>
-    </div>
-  </div>
 </footer>
 
 <script src="{{ '/static/vendor/jquery/jquery-3.6.0.slim.min.js' | relative_url }}"></script>
 <script src="{{ '/static/vendor/bootstrap/js/bootstrap.bundle.min.js' | relative_url }}"></script>
 <script src="{{ '/static/vendor/clipboard/clipboard.min.js' | relative_url }}"></script>
 <script src="{{ '/static/vendor/fontawesome/fontawesome-free-5.0.8.min.js' | relative_url }}"></script>
+<script src='https://js.tito.io/v2/with/inline/without/widget-css' async></script>
 <script src="{{ '/static/js/main.js' | relative_url }}"></script>

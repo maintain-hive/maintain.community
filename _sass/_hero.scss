@@ -1,0 +1,9 @@
+.hero {
+    padding: 8% 0;
+}
+
+.hero-pink {
+    color: $white;
+    background-color: $color-maintain-magenta;
+    background: linear-gradient(135deg, #fe8ac2 0%, #{$color-maintain-magenta} 50%, #d930be 100%);
+}
