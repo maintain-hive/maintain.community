@@ -8,4 +8,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;700&display=swap">
   <link rel="stylesheet" href="{{ '/static/css/main.css' | relative_url }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url | relative_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.og_title | default: page.title | default: site.title | escape }}">
+  <meta property="og:description" content="{{ page.og_description | default: page.description | default: site.description | escape }}">
+  <meta property="og:image" content="{{ site.url }}{{ page.og_image | default: site.og_image | relative_url | escape }}">
+  <meta name="twitter:card" content="summary">
 </head>
