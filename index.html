@@ -23,3 +23,24 @@ description: Saturday 8th October, tickets from £10. Join us for a day of fasci
         </div>
     </div>
 </div>
+
+<div class="bg-light py-4 py-md-5">
+    <div class="container">
+        <h2 class="text-center">Speakers and themes</h2>
+        <div class="row">
+            {% include speaker.html name='Andy Dudfield' byline='Maintaining the truth at Full Fact' img='andy-dudfield.jpg' %}
+            {% include speaker.html name='Hana Loftus' byline='Maintaining listed buildings in the face of climate change' img='hana-loftus.jpg' %}
+            {% include speaker.html name='James Higgott' byline='Maintaining digital services at the NHS' img='james-higgott.jpg' %}
+            {% include speaker.html name='Liz Slade' byline='Maintaining the Unitarian Church' img='liz-slade.jpg' %}
+            {% include speaker.html name='Paulina Kolata' byline='Maintaining Buddhist temples for an ageing population' img='paulina-kolata.jpg' %}
+        </div>
+        <div class="d-md-flex justify-content-center align-items-center text-center mt-5">
+            <div class="d-flex justify-content-center mb-3 me-md-4" role="presentation">
+                <img src="{{ '/static/img/avatar.png' | relative_url }}" alt="" width="80" height="80" class="rounded-circle" style="border: 4px solid #f8f9fa; margin-right: -40px">
+                <img src="{{ '/static/img/avatar.png' | relative_url }}" alt="" width="80" height="80" class="rounded-circle" style="border: 4px solid #f8f9fa; margin-right: -40px">
+                <img src="{{ '/static/img/avatar.png' | relative_url }}" alt="" width="80" height="80" class="rounded-circle" style="border: 4px solid #f8f9fa;">
+            </div>
+            <p class="text-muted mb-3">…plus more to be announced soon</p>
+        </div>
+    </div>
+</div>

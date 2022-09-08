@@ -1,0 +1,15 @@
+.speaker {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    img {
+        max-width: 150px;
+        border-radius: 100%;
+    }
+
+    p {
+        @include font-size($small-font-size);
+    }
+}
