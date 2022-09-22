@@ -1,6 +1,12 @@
 
-<div class="col-sm-6 col-lg-3 speaker mt-4">
-    <img src="{{ include.img | prepend: '/static/img/' | relative_url }}" alt="{{ include.name }}" width="500" height="500" class="mb-3">
-    <h3 class="h5 mb-2">{{ include.name }}</h3>
-    <p>{{ include.byline }}</p>
+<div class="speaker mt-3">
+    <img src="{{ include.img | prepend: '/static/img/' | relative_url }}" alt="{{ include.name }}" width="500" height="500" class="mb-3" loading="lazy">
+    <div>
+        <h4 class="h6 mb-1">
+            <a href="{{ '/2022/speakers' | relative_url }}#{{ include.name | slugify }}" class="stretched-link">
+                {{ include.name }}
+            </a>
+        </h4>
+        <p>{{ include.byline }}</p>
+    </div>
 </div>

@@ -1,15 +1,16 @@
 .speaker {
+    position: relative; // for the .stretched-link
     display: flex;
-    flex-direction: column;
     align-items: center;
-    text-align: center;
 
     img {
-        max-width: 150px;
+        @include rfs(80px, max-width);
         border-radius: 100%;
+        margin-right: $spacer;
     }
 
     p {
         @include font-size($small-font-size);
+        max-width: 20em;
     }
 }

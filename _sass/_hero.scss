@@ -7,3 +7,15 @@
     background-color: $color-maintain-magenta;
     background: linear-gradient(135deg, #fe8ac2 0%, #{$color-maintain-magenta} 50%, #d930be 100%);
 }
+
+.hero-ctas {
+    @include list-unstyled();
+    display: flex;
+    margin-left: calc(-0.5 * var(--#{$prefix}gap, #{$grid-gutter-width}));
+    margin-right: calc(-0.5 * var(--#{$prefix}gap, #{$grid-gutter-width}));
+
+    li {
+        margin-left: calc(0.5 * var(--#{$prefix}gap, #{$grid-gutter-width}));
+        margin-right: calc(0.5 * var(--#{$prefix}gap, #{$grid-gutter-width}));
+    }
+}

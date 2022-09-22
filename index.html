@@ -1,41 +1,101 @@
 ---
 layout: default
 title: Festival of Maintenance is back
-description: Saturday 8th October, tickets from £10. Join us for a day of fascinating talks from world-class practitioners, maintaining everything from technology to culture, democracy to the environment.
+description: Saturday 8th October, tickets from £10. Join us for a day of fascinating talks with world-class practitioners, maintaining everything from technology to culture, democracy to the environment.
 ---
 
 <div class="hero hero-pink text-center">
     <div class="container">
         <h1 class="mb-2 mb-md-3">Festival of Maintenance is back!</h1>
         <p class="mb-md-4 fw-bold">Online &middot; Saturday 8th October &middot; £10 early bird</p>
-        <p class="mx-auto" style="max-width: 30em">Join us for a day of fascinating talks from world-class practitioners, maintaining everything from technology to culture, democracy to the environment.</p>
+        <p class="mx-auto" style="max-width: 30em">Join us for a day of fascinating talks with world-class practitioners, maintaining everything from technology to culture, democracy to the environment.</p>
+        <ul class="hero-ctas mt-5 mb-2 justify-content-center">
+            <li><a href="#tickets" class="btn btn-light">
+                Tickets
+                <i class="fa fa-arrow-down ms-2"></i>
+            </a></li>
+            <li><a href="#themes" class="btn btn-outline-light">
+                Themes
+                <i class="fa fa-arrow-down ms-2"></i>
+            </a></li>
+            <li><a href="{{ '/2022/speakers' | relative_url }}" class="btn btn-outline-light">
+                Speakers
+                <i class="fa fa-arrow-right ms-2"></i>
+            </a></li>
+        </ul>
     </div>
 </div>
 
-<div class="container mb-4 mb-md-5">
-    <div class="row">
-        <div class="col-lg-10 mx-auto mt-n3 mt-md-n4 mt-lg-n5">
-            <tito-widget event="maintain/maintain2022">
-                <div class="tito-widget text-center">
-                    <a href="https://ti.to/maintain/maintain2022">Buy tickets, from £10 per person</a>
-                </div>
-            </tito-widget>
-        </div>
-    </div>
-</div>
-
-<div class="bg-light py-4 py-md-5">
+<div class="bg-light pb-4 pb-md-5">
     <div class="container">
-        <h2 class="text-center">Speakers and themes</h2>
+
         <div class="row">
-            {% include speaker.html name='Andy Dudfield' byline='Maintaining the truth at Full&nbsp;Fact' img='andy-dudfield.jpg' %}
-            {% include speaker.html name='George Oates' byline='Maintaining cultural heritage at&nbsp;Flickr' img='george-oates.jpg' %}
-            {% include speaker.html name='Hana Loftus' byline='Maintaining listed buildings in the face of climate&nbsp;change' img='hana-loftus.jpg' %}
-            {% include speaker.html name='James Higgott' byline='Maintaining digital services at the&nbsp;NHS' img='james-higgott.jpg' %}
-            {% include speaker.html name='Liz Slade' byline='Maintaining the Unitarian&nbsp;Church' img='liz-slade.jpg' %}
-            {% include speaker.html name='Paulina Kolata' byline='Maintaining Buddhist temples for an ageing&nbsp;population' img='paulina-kolata.jpg' %}
-            {% include speaker.html name='Phoebe Tickell' byline='Maintaining shared imaginings of the&nbsp;future' img='phoebe-tickell.jpg' %}
-            {% include speaker.html name='Sam Siva' byline='Maintaining a community response to land&nbsp;injustice' img='sam-siva.jpg' %}
+            <div class="col-lg-10 mx-auto mt-n3 mt-md-n4 mt-lg-n5 mb-5 pb-4 pb-lg-5">
+                <div id="tickets" style="position: relative; top: -2rem;" class="mt-md-n4 mt-lg-n5 mb-md-4 mb-lg-5"></div>
+                <tito-widget event="maintain/maintain2022">
+                    <div class="tito-widget text-center">
+                        <a href="https://ti.to/maintain/maintain2022">Buy tickets, from £10 per person</a>
+                    </div>
+                </tito-widget>
+            </div>
+        </div>
+
+        <div id="themes" style="position: relative; top: -2rem;"></div>
+        <h2 class="text-center">At this year’s festival…</h2>
+        
+        <hr class="my-5" role="presentation">
+
+        <div class="row">
+            <div class="col-lg-7">
+                <h3 class="mb-lg-4">Maintaining hope: Creating kinship and bringing people together</h3>
+                <p>In a time of crisis, how can imagination and hope to create kinship between human and more-than-human worlds?</p>
+                <a href="#tickets" class="d-none d-lg-inline-flex align-items-center my-3">
+                    <i class="fa fa-arrow-up me-2"></i>
+                    Buy tickets
+                </a>
+            </div>
+            <div class="col-lg-4 offset-lg-1 mt-4 mt-lg-0">
+                <h4 class="h6 text-info mb-4">Featuring presentations and discussion from:</h4>
+                {% include speaker.html name='Phoebe Tickell' byline='Founder and Director, Moral Imaginations' img='phoebe-tickell.jpg' %}
+                {% include speaker.html name='Liz Slade' byline='Unitarian Church' img='liz-slade.jpg' %}
+            </div>
+        </div>
+        
+        <hr class="my-5" role="presentation">
+
+        <div class="row">
+            <div class="col-lg-7">
+                <h3 class="mb-lg-4">Maintenance and Change: Planning for/mitigating climate change, architecture and the public realm</h3>
+                <p>Climate emergency, an ageing population and the high cost of heating homes are all problems requiring radical solutions. But what happens when these solutions seem impossible to achieve? How can we use maintenance practices to change and adapt to these new conditions?</p>
+                <a href="#tickets" class="d-none d-lg-inline-flex align-items-center my-3">
+                    <i class="fa fa-arrow-up me-2"></i>
+                    Buy tickets
+                </a>
+            </div>
+            <div class="col-lg-4 offset-lg-1 mt-4 mt-lg-0">
+                <h4 class="h6 text-info mb-4">Featuring presentations and discussion from:</h4>
+                {% include speaker.html name='Hana Loftus' byline='HAT Projects' img='hana-loftus.jpg' %}
+                {% include speaker.html name='Paulina Kolata' byline='Researcher, Japanese Buddhist temples and material culture' img='paulina-kolata.jpg' %}
+            </div>
+        </div>
+        
+        <hr class="my-5" role="presentation">
+
+        <div class="row">
+            <div class="col-lg-7">
+                <h3 class="mb-lg-4">Information Maintenance: Nurturing truth and narrative through the web</h3>
+                <p>The internet is our source of information and archive, but it is increasingly clear that truth and narrative require vigilant investment maintenance. How can we maintain the truth, and tell the story of how we got there?</p>
+                <a href="#tickets" class="d-none d-lg-inline-flex align-items-center my-3">
+                    <i class="fa fa-arrow-up me-2"></i>
+                    Buy tickets
+                </a>
+            </div>
+            <div class="col-lg-4 offset-lg-1 mt-4 mt-lg-0">
+                <h4 class="h6 text-info mb-4">Featuring presentations and discussion from:</h4>
+                {% include speaker.html name='Andy Dudfield' byline='Full Fact' img='andy-dudfield.jpg' %}
+                {% include speaker.html name='George Oates' byline='Flickr Foundation' img='george-oates.jpg' %}
+                {% include speaker.html name='James Higgott' byline='NHS Covid Hub' img='james-higgott.jpg' %}
+            </div>
         </div>
     </div>
 </div>
