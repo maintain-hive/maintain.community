@@ -1,0 +1,33 @@
+.sponsor {
+    text-align: center;
+    margin-top: map-get($spacers, 5);
+    margin-bottom: map-get($spacers, 5);
+    padding-bottom: map-get($spacers, 5);
+
+    @include media-breakpoint-up('md') {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: left;
+    }
+
+    img {
+        max-width: 150px;
+        margin-bottom: 2rem;
+
+        @include media-breakpoint-up('md') {
+            max-width: 200px;
+            margin-bottom: 0;
+            margin-right: 3rem;
+        }
+    }
+
+    p {
+        max-width: 21em;
+        margin: 0 auto;
+
+        @include media-breakpoint-up('md') {
+            margin: 0;
+        }
+    }
+}
