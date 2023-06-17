@@ -1,0 +1,58 @@
+$gray-colors: ();
+@each $key, $value in $grays {
+    $gray-colors: map-merge(
+        $gray-colors,
+        ( "gray-#{$key}": $value )
+    );
+}
+
+$all-colors: map-merge-multiple($blues, $indigos, $purples, $pinks, $reds, $oranges, $yellows, $greens, $teals, $cyans, $gray-colors);
+
+$utilities: map-merge(
+    $utilities,
+    (
+        "border-color": map-merge(
+            map-get($utilities, "border-color"),
+            (
+                values: map-merge(
+                    map-get(map-get($utilities, "border-color"), "values"),
+                    $all-colors,
+                ),
+            ),
+        ),
+        "color": map-merge(
+            map-get($utilities, "color"),
+            (
+                values: map-merge(
+                    map-get(map-get($utilities, "color"), "values"),
+                    $all-colors,
+                ),
+            ),
+        ),
+        "background-color": map-merge(
+            map-get($utilities, "background-color"),
+            (
+                values: map-merge(
+                    map-get(map-get($utilities, "background-color"), "values"),
+                    $all-colors,
+                ),
+            ),
+        ),
+        "max-width": map-merge(
+            map-get($utilities, "max-width"),
+            (
+                values: (
+                    50: 50%,
+                    100: 100%,
+                    10em: 10em,
+                    20em: 20em,
+                    30em: 30em,
+                    35em: 35em,
+                    40em: 40em,
+                    45em: 45em,
+                    50em: 50em,
+                ),
+            ),
+        ),
+    ),
+);

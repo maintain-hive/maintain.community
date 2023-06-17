@@ -8,6 +8,12 @@
     background: linear-gradient(135deg, #fe8ac2 0%, #{$color-maintain-magenta} 50%, #d930be 100%);
 }
 
+.hero-green {
+    color: $white;
+    background-color: $color-maintain-green;
+    background: linear-gradient(135deg, #9dc414 0%, #2c821a 50%, #{$color-maintain-green} 100%);
+}
+
 .hero-ctas {
     @include list-unstyled();
     display: flex;
