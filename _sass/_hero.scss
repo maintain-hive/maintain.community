@@ -14,6 +14,12 @@
     background: linear-gradient(135deg, #9dc414 0%, #2c821a 50%, #{$color-maintain-green} 100%);
 }
 
+.hero-red {
+    color: $white;
+    background-color: $red;
+    background: linear-gradient(135deg, #{$orange} 0%, #{$red} 50%, #{$pink} 100%);
+}
+
 .hero-ctas {
     @include list-unstyled();
     display: flex;
