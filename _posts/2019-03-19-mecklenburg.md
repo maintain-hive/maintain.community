@@ -1,0 +1,43 @@
+---
+layout: post
+title: Alex Mecklenburg on maintenance and why we need better stories
+image: alexm-e1549402605494.jpg
+image_alt: Alex Mecklenburg
+author: Jen McArthur
+---
+
+The 2018 Festival of Maintenance brought together a variety of fantastic speakers. Leading up to the [2019 Festival](/2019), we are catching up with some of our speakers from 2018 to reflect on the value of maintenance in our work and everyday lives.
+
+Alex Mecklenburg is a co-founder at [Truth & Spectacle](https://www.truthandspectacle.com/), a consultancy that helps organisations own their creativity as a business function for innovation and growth. She is also an executive coach and a creator and facilitator of leadership programmes as associate of [Doteveryone](https://doteveryone.org.uk/). See Alex’s talk from last year’s festival [here](https://www.youtube.com/watch?v=iEakIVeODpg).
+
+**At the 2018 Festival you talked about the importance of stories and bridging the divide between creativity and maintenance. To put this into practice, where should we start?**  
+
+First, we need to change the narrative. Narratives are useful to help us when we’re taking a new direction – but at that particular moment, we don’t always realise what we’re excluding from the narrative. When people started to link creativity with innovation, I don’t think they intended to leave maintenance behind.  
+  
+Our stories also need a more nuanced idea of the creative process. If you take a very traditional definition, the notion of _craft_ is an integral part of creativity and it has always needed to consider maintenance. Craft is about choosing a material that will last, understanding how to maintain it and training people with those skills. For example, my boyfriend is a woodworker, and for him, an essential part of the creative process the question of how a piece of furniture will last.  
+  
+In my talk last year, I used examples from children’s literature and authors like Astrid Lindgren, to question whether the story actually starts at, ‘and they lived happily ever after’? It’s not about these big moments; it’s all the small things that happen throughout the process. Beyond the ‘happily ever after’, where are the stories about how to maintain a family?
+
+<img src="{{ 'alex-1.webp' | prepend: '/static/img/' | relative_url }}"  alt="Alex presenting at the Festival of Maintenance" loading="lazy" class="my-4 rounded">
+
+The second point is about organisational practices and the ways that different people can work together. We really focus on this at Truth and Spectacle, which I founded with a very good friend. We both came from the creative industries and saw an incredible vacuum around the creative team. Creatives were responsible for new and innovative ideas, but they rarely had any contact with the people who would be maintaining the things that they created. I would love for organisations to be thinking about how to connect those tribes to create environments, spaces, and conversations where people can meet and enrich each other. Let’s think less about creative departments and more about what organisational creativity could – and would – look like in practice.
+
+Often in organisations, we’re looking for big changes, but small interventions that make people think differently can be more effective. I used the example last year, where a client had the so-called creative thinkers and innovators sitting in one part of the building, and the so-called maintenance team sitting in another. By simply getting them to sit together we shifted the narrative beyond that division between creative work and maintenance. Instead, creativity meant innovating on the maintenance of the future.
+
+Lastly, it’s important to look at creativity and innovation from a more responsible point of view. I also work with Doteveryone, on their digital leadership programme. One of the things we help organisations with right now is how to translate their organisational values back into digital and creative product design. To do this, it means thinking through the unintended consequences in the creative process. These consequences aren’t always barriers or something that should stop you producing, but it’s important to explore this and incorporate into your decision-making.  
+
+**The introduction of digital technologies brought a major transformation for the creative industries. Beyond the new technological platforms, what are the major changes that you’ve observed in the way people work?**  
+
+Two things have changed fundamentally – again they are simple things, not big things. Firstly, collaboration and co-creation: inviting people who see it differently. There is a certain humbleness and vulnerability in these processes, whereas in the past there was a fear that openly critical conversations could kill creativity.
+
+The other big change is the discussion around _logic and magic_, also called _data and creativity_, or _evidence and freefall thinking_. At the outset, the idea was that logic and magic are fundamentally harmful to each other and needed to be kept separate. However, as with many of these battle cries, people started to question whether it’s actually true. Now we’re exploring how data, long-term thinking and a more nuanced understanding can enhance creative processes, rather than shooting them down.  
+
+**Six months on from the Festival, what are your reflections on maintenance and its ongoing relevance to our economy and society?**  
+
+Maintenance means there is no ultimate fix. Improvement, repair, and upkeep are all ongoing and that is hard for us as humans. We love things that have a beginning and an end because it shows us progress. So, thinking about how we can visualise progress within an infinitive process – like maintenance – is a fascinating question for me. When I talk to people about making maintenance more important in their own life, one of my provocations is, how can you track progress within maintenance?
+
+Another observation is that the moment you start talking to people about maintenance, unexpected things happen. To put on my coaching hat: coaching is not about fixing things for people. Rather, it is giving people the opportunity to look and reflect, to develop those internal maintenance systems. So my question is, if we just talk more about maintenance, will that become something that people are happy to re-introduce in their daily practice? And has it just been forgotten amidst the noise? The fact that more people are talking about it shows that it is a subject that people can relate to.  
+
+Reflecting on the broader economic system we operate in, conversations about the circular economy and definitions of value within economic systems are starting to bubble up and need to be fostered. Take for example, Ikea’s announcement on their [stance around the circular economy](https://highlights.ikea.com/2017/circular-economy/) and efforts to incorporate this into their design and production processes. On the one had, yes you could be cynical about a big corporate saying this, but you don’t _have_ to be. It’s about giving people permission to think about it – give Ikea permission to explore this, instead of shutting them off and saying it’s not the right way to do it. That response doesn’t allow for exploration and learning that are critically important.  
+
+My plea to the maintenance movement is to be careful not to fall into the same trap as the innovation and creativity movements, of being dogmatic. There’s something very beautiful about maintenance that invites more open approaches. When maintenance first fell off the agenda, that resulted from dogmatic thinking that there was the only one way to innovate, to be creative… you know, ‘move fast and break things’. I hate that! So let’s be more inviting, allowing maintenance to be many things. That’s what I loved about the 2018 Festival. I left that day saying, wow, I have never thought of maintenance from so many different angles. The festival did not curate the angle that you should take. Instead, it was completely up to individuals to define maintenance, which made it so rich. Perhaps not everybody agreed, but that’s life and we should expect different interpretations. So I think that is my reflection – for a long-term process like maintenance, let’s be generous and open. New ideas and insights will come up and we should not to shut them down. Let’s maintain the movement of maintenance.

@@ -1,0 +1,29 @@
+---
+layout: post
+title: How do you maintain a football club? Oliver Holtaway on the community takeover of Bath City FC
+image: bathcityyouthflags.webp
+image_alt: Kids wave flags on the sidelines of a Bath City football match
+author: Jen McArthur
+---
+
+In the lead-up to the 2019 Festival of Maintenance, we are catching up with some of our speakers from 2018 to reflect on the value of maintenance in our work and everyday lives.
+
+[Oliver Holtaway](https://twitter.com/OliverHoltaway) advises social enterprises and mission-led businesses on strategy, research and communications, and helped to make Bath City FC a community-owned football club. [See Oliver’s talk from the 2018 Festival here.](/2018/speakers)
+
+**It is not common to see a community-owned football club – what built up momentum and to change the ownership model for Bath FC?**
+
+With Bath City FC, the owners were just about keeping the show on the road. They just didn’t have any time or capacity to invest in new ideas for the future of the club. It was the club’s Supporters Society who proactively sought to convert it to community ownership, coming in and saying right, this isn’t going to work forever, we’re going to do a deal and try to buy a stake to take over the club. So in part, it was an idea to enable innovation and allow the club to do more new things.
+
+Locally, the precedent for community shares was set by a pub called the Bell Inn, which became a cooperative several years ago. This was driven much more by maintenance. It’s an unusual story in that the pub was actually profitable, but the previous owner had decided to sell up for his own reasons. So he basically said, I’m going to sell the pub and I want a market rate for it, but if the community can get the money together to buy it, that’s not a problem. So in that case, it was about keeping the pub as it was, and that’s exactly what has happened.
+
+**Your talk on taking Bath City FC into community ownership at the 2018 Festival showed the everyday, tangible issues involved in keeping a football club going, under community ownership. Since this form of ownership is relatively rare in football, were there particular learnings drawn from other sectors?**
+
+Yes – we received support from within the football sector, and also other examples of community takeovers. A national organisation, Supporters Direct, gave us advice on what had worked for other clubs. One of the key players in the Bell Inn case was William Heath, who is a serial promoter and champion of cooperative projects. He found out about the football club and gave us advice on how to use community shares, as they were an up-and-coming technology at the time.
+
+After the Bath City FC takeover we’ve shared our learnings with other community ownership projects, including a live music venue in Bath that took a similar route. However in each case there is a slightly different problem and a different setup, and of course very separate maintenance issues.
+
+**Six months on from the Festival, would you tell the story any differently? Is there still value in thinking about maintenance?**
+
+Since last September I’ve continued to use ideas of maintenance and innovation as a kind of prism to look at community ownership, it helps to recognise some of the blind spots. In particular, there’s this idea of assetisation underlying the idea of “community assets”. It’s a very particular way of saying that something has value, like a pub or a football club, and implying that it will give you some form of return over time. But it also reflects the divide between the innovative work of making something into an asset, and the maintenance of that asset over the long term to ensure it performs. Obviously there is also a critique about how the language of the market, like “asset” or “return”, is infecting how we think about everything – but it also introduces a temporal dimension and casts into sharp relief the tension between the present, where we urgently want to save something and do a big campaign to raise money, and how future returns are actually realised.
+
+The other issues come from the governance side of things. I was recently at a great conference called [Losing Control](https://thesocialchangeagency.org/case-study/losing-control/), about various types of organisations allowing control to pass down to their members or communities (or beneficiaries, for charities). In a session on community shares we discussed how, now that they’ve been around for a while, it has been observed that people often feel that the amount of power they get for having invested is tokenistic. But there’s this paradox. Community shares originally come from the idea that you start with a cooperative, and that cooperative then uses community shares to raise money from its own members in a way that doesn’t distort the principles that they’ve already agreed to. But in practice, it’s often a case of the cart before the horse: organisations choose community shares because they’re an effective way of raising money, and it’s only afterwards that you have to parachute in this cooperative governance structure that then has to continue in perpetuity. Often the organisations have no tradition of working like this, and they aren’t on the same page – apart from the collective emotional sense that we all, as fans, own the club. There’s not necessarily a tradition saying, we believe in cooperative principles, in this form of governance where things are decided through votes, meetings, articles of association and the rules that come with that. Sometimes I use the analogy of foreign powers invading an undemocratic country, setting up a parliament and an election and thinking that it’s now a democracy, mission accomplished. Getting people to engage and create a democratic culture – to come along to meetings, or even to organise the meetings – that’s remained a challenge.
