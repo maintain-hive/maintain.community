@@ -1,0 +1,22 @@
+.blockquote {
+    font-style: italic;
+    border-color: $gray-200;
+
+    &.text-start {
+        border-left-style: solid;
+        border-left-width: 0.25em;
+        padding-left: 1em;
+    }
+
+    &.text-end {
+        border-right-style: solid;
+        border-right-width: 0.25em;
+        padding-right: 1em;
+    }
+}
+
+@each $name, $value in $theme-colors {
+    .blockquote-#{$name} {
+        border-color: $value;
+    }
+}
