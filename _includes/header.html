@@ -12,10 +12,13 @@
 
         <div class="navbar-collapse collapse" id="navbarNav">
             <ul class="navbar-nav flex-grow-1 justify-content-center mt-3 mt-md-4 mb-md-n2">
+                <li class="nav-item">
+                    <a href="{{ '/' | relative_url }}" class="nav-link">About</a>
+                </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Festivals</a>
                     <ul class="dropdown-menu shadow">
-                        <li><a class="dropdown-item" href="{{ '/' | relative_url }}">Online 2022</a></li>
+                        <li><a class="dropdown-item" href="{{ '/2022' | relative_url }}">Online 2022</a></li>
                         <li><a class="dropdown-item" href="{{ '/2019' | relative_url }}">Liverpool 2019</a></li>
                         <li><a class="dropdown-item" href="{{ '/2018' | relative_url }}">London 2018</a></li>
                     </ul>
@@ -25,9 +28,6 @@
                 </li>
                 <li class="nav-item">
                     <a href="{{ '/code-of-conduct' | relative_url }}" class="nav-link">Code of Conduct</a>
-                </li>
-                <li class="nav-item">
-                    <a href="{{ '/about' | relative_url }}" class="nav-link">About</a>
                 </li>
                 <li class="nav-item">
                     <a href="{{ '/contact' | relative_url }}" class="nav-link">Contact</a>
